@@ -1,4 +1,4 @@
-# udagram-microservice
+# microservice-in-eks
 This is the Udacity project to split the udagram application in microservice and deploy it in Kubernetes cluster in AWS.
 
 
